@@ -119,13 +119,6 @@ Using .gitignore and tags
 
 Organizing documentation in a DevOps project
 
-📸 Screenshots
-Branches
-
-<img width="1745" height="835" alt="Screenshot 2025-08-12 103744" src="https://github.com/user-attachments/assets/b4489750-124d-41cb-b864-0ffeaf711d80" />
-
-
-
 🔖 Version
 v1.0 – Initial stable release
 
