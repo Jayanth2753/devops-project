@@ -121,7 +121,9 @@ Organizing documentation in a DevOps project
 
 📸 Screenshots
 Branches
-<img width="1745" height="835" alt="image" src="https://github.com/user-attachments/assets/cdef6bdb-37e0-4540-899d-d48c58571934" />
+
+<img width="1745" height="835" alt="Screenshot 2025-08-12 103744" src="https://github.com/user-attachments/assets/b4489750-124d-41cb-b864-0ffeaf711d80" />
+
 
 
 🔖 Version
